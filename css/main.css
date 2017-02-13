@@ -1,0 +1,24 @@
+nav {
+    height: 50px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #e2e2ff;
+}
+
+nav > ul {
+    list-style-type: none;
+    width: 600px;
+    margin: 0 auto;
+}
+
+nav > ul > li {
+    float:left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.indh1 {
+    clear: both;
+    width: 50px;
+    margin: auto;
+}
